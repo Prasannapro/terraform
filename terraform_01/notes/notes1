@@ -1,0 +1,7 @@
+meta arguments: can be used in any type and any name
+
+depends_on
+count
+for_each
+provider
+lifecycle
